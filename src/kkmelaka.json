@@ -1,0 +1,103 @@
+{
+  "clinics": [
+    {
+      "id": "239",
+      "name": "KLINIK KESIHATAN AYER MOLEK",
+      "address": "Jalan Air Molek",
+      "postcode": 75460,
+      "city": "Ayer Molek",
+      "district": "Melaka Tengah",
+      "tel": "06-2680333"
+    },
+    {
+      "id": "240",
+      "name": "KLINIK KESIHATAN BUKIT RAMBAI",
+      "address": "alan Bukit Rambai, Bukit Rambai",
+      "postcode": 75250,
+      "city": "Bukit Rambai",
+      "district": "Melaka Tengah",
+      "tel": "06-3512464"
+    },
+    {
+      "id": "241",
+      "name": "KLINIK KESIHATAN CHENG",
+      "address": "Jalan Cheng",
+      "postcode": 75250,
+      "city": "Melaka Tengah",
+      "district": "Melaka Tengah",
+      "tel": "06-3121924"
+    },
+    {
+      "id": "242",
+      "name": "KLINIK KESIHATAN KLEBANG BESAR",
+      "address": "Jalan Klebang Besar",
+      "postcode": 75200,
+      "city": "Klebang Besar",
+      "district": "Melaka Tengah",
+      "tel": "06-3154144"
+    },
+    {
+      "id": "243",
+      "name": "KLINIK KESIHATAN JALAN GEREJA",
+      "address": "Jalan Gereja",
+      "postcode": 75500,
+      "city": "Melaka",
+      "district": "Melaka Tengah",
+      "tel": "06-2824452"
+    },
+    {
+      "id": "244",
+      "name": "KLINIK KESIHATAN AYER KEROH",
+      "address": "Jalan Ayer Keroh Lama",
+      "postcode": 75350,
+      "city": "Melaka Tengah",
+      "district": "Melaka Tengah",
+      "tel": "06-2324133"
+    },
+    {
+      "id": "245",
+      "name": "KLINIK KESIHATAN PERINGGIT",
+      "address": "Jalan Peringgit",
+      "postcode": 75400,
+      "city": "Melaka Tengah",
+      "district": "Melaka Tengah",
+      "tel": "06-2882344"
+    },
+    {
+      "id": "246",
+      "name": "KLINIK KESIHATAN TENGKERA",
+      "address": "Jalan Dato Wira Poh Ah Tiam, Lorong Pandan, Tengkera",
+      "postcode": 75200,
+      "city": "Melaka Tengah",
+      "district": "Melaka Tengah",
+      "tel": "06-2821112"
+    },
+    {
+      "id": "247",
+      "name": "KLINIK KESIHATAN SUNGAI UDANG",
+      "address": "Batu 11 1/2",
+      "postcode": 76300,
+      "city": "Sungai Udang",
+      "district": "Melaka Tengah",
+      "tel": "06-3531333"
+    },
+    {
+      "id": "248",
+      "name": "KLINIK KESIHATAN TANJUNG KLING",
+      "address": "Batu 7 Pekan Tanjung Kling",
+      "postcode": 76400,
+      "city": "Tanjung Kling",
+      "district": "Melaka Tengah",
+      "tel": "06-3511333"
+    },
+    {
+      "id": "249",
+      "name": "KLINIK KESIHATAN UJONG PASIR",
+      "address": "Jalan Ujong Pasir",
+      "postcode": 75000,
+      "city": "Melaka Tengah",
+      "district": "Melaka Tengah",
+      "tel": "06-2867333"
+    }
+  ]
+}
